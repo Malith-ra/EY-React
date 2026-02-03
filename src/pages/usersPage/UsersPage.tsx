@@ -1,6 +1,6 @@
 import { useQuery } from '@tanstack/react-query';
 import { useNavigate } from 'react-router-dom';
-import { getUsers, type User } from '../../../api/users';
+import { getUsers, type User } from '../../api/users';
 
 export default function UsersPage() {
   const navigate = useNavigate();
