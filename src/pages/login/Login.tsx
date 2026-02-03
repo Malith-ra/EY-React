@@ -115,7 +115,7 @@ export default function Login() {
 
           <button
             type="submit"
-            className="w-full text-black rounded-lg bg-slate-900 px-4 py-2.5 font-semibold hover:bg-slate-800 active:bg-slate-950 transition"
+            className="w-full text-white rounded-lg bg-slate-900 px-4 py-2.5 font-semibold hover:bg-slate-800 active:bg-slate-950 transition"
           >
             Sign in
           </button>
